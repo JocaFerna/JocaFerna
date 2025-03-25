@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Pedro Dias Fernandes</h1>
-<h3 align="center">A passionate Computer Engineer from Portugal, with particular interest in AI and it's possibilities</h3>
+<h3 align="center">A passionate Computer Engineer from Portugal, with particular interest in AI, Software Architecture and it's possibilities</h3>
 
 - 🔭 I’m currently working on **University Projects!**
 
